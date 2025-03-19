@@ -7,9 +7,9 @@ Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRK
 - Conecta cada mitad por separado, sin el cable TRRS, presiona el boton de reset de tu teclado y carga el firmware
 - Personaliza y disfruta tu Corne con VIA
 
-Abre VIA y ajusta la configuración a tu gusto.
+- Descarga e instala [VIA](https://github.com/the-via/releases/releases) y ajusta la configuración a tu gusto.
 # ¿Qué incluye este firmware?
-- Firmware listo para usar en QMK VIA
+- Firmware listo para usar en 
 - Opciones de RGB activas para una mejor experiencia visual
 - Funciones especiales: Control de mouse, macros y multimedia
 - Ahora tu Corne (CRKBD) está listo para usarse con VIA y aprovechar todas sus funciones. 🚀
