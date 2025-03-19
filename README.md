@@ -8,7 +8,7 @@ Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRK
 4. Descarga e instala [VIA](https://github.com/the-via/releases/releases) <- Lo puedes descargar directamente desde la pagina para sistemas operativos Windows y Mac
 
   
-# 🎛️¿Qué incluye este firmware? 
+# 🎛️¿Qué incluye este firmware?
 - Código optimizado para mostrar caracteres de bloqueo (Mayús y Num)
 - Opciones de RGB activas para una mejor experiencia visual
 - Funciones especiales habilitadas: Control de mouse, macros y multimedia
