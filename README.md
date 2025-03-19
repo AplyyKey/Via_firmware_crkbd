@@ -13,4 +13,6 @@ Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRK
 - Opciones de RGB activas para una mejor experiencia visual
 - Funciones especiales habilitadas: Control de mouse, macros y multimedia
 
+# Pantallas oled
+
   
