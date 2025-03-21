@@ -14,7 +14,7 @@ Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRK
 - Opciones de RGB activas para una mejor experiencia visual.
 - Funciones especiales habilitadas: Control de mouse, macros y multimedia.
 
-# Preparacion de QMK TOOLBOX
+# 🖥️Preparacion de QMK TOOLBOX
 - Ejecuta **QMK TOOLBOX** como administrador.
 - Instala los drivers desde la pestaña **TOOLS** o con la combinación de teclas CTRL+N.
 - Selecciona el firmware descargado desde la pestaña **OPEN**.
