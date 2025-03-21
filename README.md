@@ -45,3 +45,15 @@
 - Para cargar el firmware con el controlador libre, realiza un puente entre los puntos GND y RESET (puedes hacerlo con un alambre, clip o pinzas de electrónica).
   
 <img src="https://github.com/user-attachments/assets/8e5d6935-1b09-474b-afc0-46683d21c623" width="25%" />
+
+# ⚙️VIA
+Con VIA podrás personalizar completamente la distribución de tu teclado. Esta herramienta te permite:
+
+- Modificar la distribución de teclas de forma sencilla e intuitiva.
+- Acceder y configurar hasta 4 capas de funciones diferentes.
+- Crear y asignar macros personalizadas para mejorar tu flujo de trabajo.
+- Guardar y cargar perfiles según tus necesidades, para cambiar rápidamente entre configuraciones.
+- Controlar los métodos de iluminación RGB y personalizarlos según tu estilo.
+- Todo esto sin necesidad de recompilar el firmware, directamente desde la interfaz de VIA
+  
+![Image](https://github.com/user-attachments/assets/5e407fed-73f3-497e-8171-db636405b84a)
