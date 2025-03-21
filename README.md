@@ -23,7 +23,7 @@
 - Opciones de RGB activas para una mejor experiencia visual.
 - Funciones especiales habilitadas: Control de mouse, macros y multimedia
 
-<img src="https://github.com/user-attachments/assets/5aab29d2-7863-4741-b80b-7d4a4e45bf25" width="40%" />
+     <p align="center"><img src="https://github.com/user-attachments/assets/5aab29d2-7863-4741-b80b-7d4a4e45bf25" width="40%" />
 
 
 # 🖥️Preparacion de QMK TOOLBOX
@@ -44,7 +44,7 @@
 # ▶️Controlador 
 - Para cargar el firmware con el controlador libre, realiza un puente entre los puntos GND y RESET (puedes hacerlo con un alambre, clip o pinzas de electrónica).
   
-<img src="https://github.com/user-attachments/assets/8e5d6935-1b09-474b-afc0-46683d21c623" width="25%" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/8e5d6935-1b09-474b-afc0-46683d21c623" width="25%" />
 
 # ⚙️VIA
 Con VIA podrás personalizar completamente la distribución de tu teclado. Esta herramienta te permite:
