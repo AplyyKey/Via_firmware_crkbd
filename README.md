@@ -11,9 +11,9 @@
 > Una vez que comience el proceso de carga del firmware, no debe interrumpirse. Interrumpir el proceso o cargar un firmware mal compilado puede dejar el controlador en un estado inutilizable.
 
 # 🛠️Programas necesarios
-1. Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) (para **Windows** y **Mac**).
-2. Instala el programa como administrador, junto con los drivers, y descargar el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/crkbd_rev1_via.hex)).
-3. Descarga e instala [VIA](https://github.com/the-via/releases/releases), un software intuitivo para configurar tu teclado (para **Windows** y **Mac**).
+- Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) (para **Windows** y **Mac**).
+- Instala el programa como administrador, junto con los drivers, y descargar el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/crkbd_rev1_via.hex)).
+- Descarga e instala [VIA](https://github.com/the-via/releases/releases), un software intuitivo para configurar tu teclado (para **Windows** y **Mac**).
   
 # 🎛️¿Qué incluye este firmware?
 - Código optimizado para mostrar caracteres de bloqueo (Mayús y Num).
@@ -29,8 +29,13 @@
 - En la opción MCU (AVR only), selecciona **Atmega32U4** (necesario para controladores Arduino Pro Micro).
 - Marca la opción de **Auto-Flash** (esto facilitará al momento de cargar el firmware)
 
-# ▶️Explicación
+# ▶️Explicación 
 - Cargaremos el firmware en ambas mitades de manera individual. Usa un cable de transferencia de datos en un puerto USB 3.1 y asegúrate de que el cable TRRS no esté conectado.
 - Luego, presiona una vez el botón de la PCB para poner cada controlador en modo de programación.
 - El programa cargará el firmware automáticamente. Asegúrate de seleccionar **Auto-Flash** para que el proceso sea automático.
 - Podrás verificar que la carga se ha completado con éxito cuando **QMK TOOLBOX** muestre el mensaje "Flash Completing".
+
+# ▶️Controlador 
+- Para cargar el firmware con el controlador libre, realizaremos un puente entre el los puntos **GND** y **RESET**, seguiremos el mismo proceso anteriormente realizado.
+  
+![Image](https://github.com/user-attachments/assets/8e5d6935-1b09-474b-afc0-46683d21c623)
