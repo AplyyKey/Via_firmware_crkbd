@@ -2,7 +2,7 @@
 
 Este repositorio contiene el firmware QMK modificado para ser utilizado con VIA en el teclado Corne (CRKBD). A través de VIA, podrás personalizar completamente tu teclado de manera sencilla e interactiva, sin necesidad de recompilar el firmware.
 > [!IMPORTANT]
-> Sigue cada proceso al pie de la letra y descarga las ultimas versiones tanto de **QMK TOOLBOX** como de **VIA
+> Sigue cada proceso al pie de la letra y descarga las ultimas versiones tanto de **QMK TOOLBOX** como de **VIA**
 
 > [!TIP]
 > Si aún no has soldado el controlador, carga el firmware para verificar su funcionamiento, o hazlo una vez esté soldado en la PCB.
@@ -12,7 +12,6 @@ Este repositorio contiene el firmware QMK modificado para ser utilizado con VIA 
 
 # 🛠️Programas necesarios
 - Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) (para **Windows** y **Mac**).
-- Instala el programa como administrador, junto con los drivers, y descargar el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/Firmware/crkbd_rev1_via.hex)).
 - Descarga e instala [VIA](https://github.com/the-via/releases/releases), un software intuitivo para configurar tu teclado (para **Windows** y **Mac**).
   
 # 🎛️¿Qué incluye este firmware?
@@ -40,13 +39,13 @@ Este repositorio contiene el firmware QMK modificado para ser utilizado con VIA 
 
 <img src="https://github.com/user-attachments/assets/4223266b-0cf8-4fae-b939-47770f143a53" width="35%" /> <img src="https://github.com/user-attachments/assets/7b68dc82-d70e-44d6-9ad7-eae05dd186c7" width="41.2%" />
 
-# ▶️Controlador 
+# ▶️Controlador libre
 - Para cargar el firmware con el controlador libre, realiza un puente entre los puntos GND y RESET (puedes hacerlo con un alambre, clip o pinzas de electrónica).
   
 <p align="center"> <img src="https://github.com/user-attachments/assets/8e5d6935-1b09-474b-afc0-46683d21c623" width="25%" />
 
 # ⚙️VIA
-Con VIA podrás personalizar completamente la distribución de tu teclado. Esta herramienta te permite:
+Una vez cargado el firmware, VIA te permite personalizar completamente la distribución de tu teclado. Con esta herramienta, podrás:
 
 - Modificar la distribución de teclas de forma sencilla e intuitiva.
 - Acceder y configurar hasta 4 capas de funciones diferentes.
