@@ -22,7 +22,7 @@
 - Opciones de RGB activas para una mejor experiencia visual.
 - Funciones especiales habilitadas: Control de mouse, macros y multimedia
 
-<img src="https://github.com/user-attachments/assets/24489efb-2b28-4610-ad87-55e9d985e257" width="40%" />
+<img src="https://github.com/user-attachments/assets/5aab29d2-7863-4741-b80b-7d4a4e45bf25" width="40%" />
 
 
 # 🖥️Preparacion de QMK TOOLBOX
