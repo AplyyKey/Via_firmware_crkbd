@@ -9,7 +9,7 @@
 
 > [!WARNING]
 >- Una vez que el proceso de carga del firmware comienza, no puede ser interrumpido.
->- Interrumpir el proceso podría dejar el controlador en un estado inutilizable.
+>- Interrumpir el proceso o cargar un firmware mal compilado podría dejar el controlador en un estado inutilizable.
 
 # 🛠️Programas necesarios
 1. Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) <-Descarga directa para Windows y Mac.
