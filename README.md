@@ -1,5 +1,5 @@
 # Firmware para teclado Corne (CRKBD) – Compatible con VIA⚡
-Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRKBD) con controladores Pro Micro.
+Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRKBD) con controladores Pro Micro, junto con una pequeña guía.
 
 # 🛠️¿Cómo instalarlo?
 1. Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) <-Descarga directa para Windows y Mac.
