@@ -5,7 +5,7 @@
 >- Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRKBD) con controladores Pro Micro, sigue la guía al pie de la letra.
 
 > [!TIP]
-> Puedes cargar el firmware antes de soldar el controlador para comprobar que este este en estado optimo para su uso, o una vez soldado en la PCB.
+> Puedes cargar el firmware antes de soldar el controlador para comprobar que este en estado optimo para su uso, o una vez soldado en la PCB.
 
 > [!WARNING]
 >- Una vez que el proceso de carga del firmware comienza, no puede ser interrumpido.
