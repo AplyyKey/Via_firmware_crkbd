@@ -32,5 +32,5 @@
 # ▶️Explicación
 - Cargaremos el firmware en ambas mitades de manera individual. Usa un cable de transferencia de datos en un puerto USB 3.1 y asegúrate de que el cable TRRS no esté conectado.
 - Luego, presiona una vez el botón de la PCB para poner cada controlador en modo de programación.
-- Una vez presionado el botón, el programa cargará el firmware automáticamente. Asegúrate de seleccionar **Auto-Flash** para que el proceso sea automático.
-- Podrás verificar que la carga se ha completado con éxito cuando QMK TOOLBOX muestre el mensaje "Flash Completing".
+- El programa cargará el firmware automáticamente. Asegúrate de seleccionar **Auto-Flash** para que el proceso sea automático.
+- Podrás verificar que la carga se ha completado con éxito cuando **QMK TOOLBOX** muestre el mensaje "Flash Completing".
