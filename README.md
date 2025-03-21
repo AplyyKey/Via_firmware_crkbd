@@ -8,7 +8,6 @@
 > Si aún no has soldado el controlador, carga el firmware para verificar su funcionamiento, o hazlo una vez esté soldado en la PCB.
 
 > [!WARNING]
-> Una vez que el proceso de carga del firmware comienza, no puede ser interrumpido.
 > Una vez que comience el proceso de carga del firmware, no debe interrumpirse. Interrumpir el proceso o cargar un firmware mal compilado puede dejar el controlador en un estado inutilizable.
 
 # 🛠️Programas necesarios
