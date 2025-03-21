@@ -20,7 +20,10 @@
 - Visualización de capas de función en pantallas.
 - Imagen personalizada de Corne.
 - Opciones de RGB activas para una mejor experiencia visual.
-- Funciones especiales habilitadas: Control de mouse, macros y multimedia.
+- Funciones especiales habilitadas: Control de mouse, macros y multimedia
+
+<img src="https://github.com/user-attachments/assets/24489efb-2b28-4610-ad87-55e9d985e257" width="40%" />
+
 
 # 🖥️Preparacion de QMK TOOLBOX
 - Ejecuta **QMK TOOLBOX** como administrador.
@@ -38,4 +41,4 @@
 # ▶️Controlador 
 - Para cargar el firmware con el controlador libre, realizaremos un puente entre el los puntos **GND** y **RESET**, seguiremos el mismo proceso anteriormente realizado.
   
-![Image](https://github.com/user-attachments/assets/8e5d6935-1b09-474b-afc0-46683d21c623)
+<img src="https://github.com/user-attachments/assets/8e5d6935-1b09-474b-afc0-46683d21c623" width="15%" />
