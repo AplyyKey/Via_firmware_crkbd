@@ -1,9 +1,8 @@
 # Firmware Corne (CRKBD) – Compatible con VIA⚡
 
+Este repositorio contiene el firmware QMK modificado para ser utilizado con VIA en el teclado Corne (CRKBD). A través de VIA, podrás personalizar completamente tu teclado de manera sencilla e interactiva, sin necesidad de recompilar el firmware.
 > [!IMPORTANT]
-> Asegúrate de utilizar un cable de transferencia de datos conectado a un puerto USB 3.1 (azul) para la transferencia de archivos.
-> Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRKBD) con controladores Pro Micro.
-> Sigue la guía al pie de la letra.
+> Sigue cada proceso al pie de la letra y descarga las ultimas versiones tanto de **QMK TOOLBOX** como de **VIA
 
 > [!TIP]
 > Si aún no has soldado el controlador, carga el firmware para verificar su funcionamiento, o hazlo una vez esté soldado en la PCB.
