@@ -10,9 +10,14 @@ Este repositorio contiene el firmware listo para cargar en tu teclado Corne (CRK
   
 # 🎛️¿Qué incluye este firmware?
 - Código optimizado para mostrar caracteres de bloqueo (Mayús y Num)
+- ✅ Visualización de capas de función en pantallas.
+- ✅ Imagen personalizada de Corne.
 - Opciones de RGB activas para una mejor experiencia visual
 - Funciones especiales habilitadas: Control de mouse, macros y multimedia
 
-# Pantallas oled
-
-  
+# Preparacion de QMK TOOLBOX
+- Ejecuta QMK TOOLBOX como administrador
+- Instala los drivers desde la pestaña TOOLS o con la combinación de teclas CTRL+N.
+- Selecciona el firmware descargado desde la pestaña OPEN.
+- En la opción MCU (AVR only), selecciona Atmega32U4 (necesario para controladores Arduino Pro Micro).
+![Image](https://github.com/user-attachments/assets/5b23932c-b96d-4882-aa0a-739b7c6cdad7) 
