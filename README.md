@@ -39,7 +39,7 @@
 - El programa cargará el firmware automáticamente. Asegúrate de seleccionar **Auto-Flash** para que el proceso sea automático.
 - Podrás verificar que la carga se ha completado con éxito cuando **QMK TOOLBOX** muestre el mensaje "**Flash complete**".
 
-<img src="https://github.com/user-attachments/assets/4223266b-0cf8-4fae-b939-47770f143a53" width="35%" /> <img src="https://github.com/user-attachments/assets/593b3e70-8457-465d-b413-465ab40fcd0a" width="41.2%" />
+<img src="https://github.com/user-attachments/assets/4223266b-0cf8-4fae-b939-47770f143a53" width="35%" /> <img src="https://github.com/user-attachments/assets/7b68dc82-d70e-44d6-9ad7-eae05dd186c7" width="41.2%" />
 
 # ▶️Controlador 
 - Para cargar el firmware con el controlador libre, realiza un puente entre los puntos GND y RESET (puedes hacerlo con un alambre, clip o pinzas de electrónica).
