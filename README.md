@@ -1,4 +1,4 @@
-# Firmware para teclado Corne (CRKBD) – Compatible con VIA⚡
+# Firmware Corne (CRKBD) – Compatible con VIA⚡
 
 > [!IMPORTANT]
 > Asegúrate de utilizar un cable de transferencia de datos conectado a un puerto USB 3.1 (azul) para la transferencia de archivos.
