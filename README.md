@@ -9,13 +9,12 @@
 
 > [!WARNING]
 > Una vez que el proceso de carga del firmware comienza, no puede ser interrumpido.
-> Interrumpir el proceso o cargar un firmware mal compilado podría dejar el controlador en un estado inutilizable.
+> Una vez que comience el proceso de carga del firmware, no debe interrumpirse. Interrumpir el proceso o cargar un firmware mal compilado puede dejar el controlador en un estado inutilizable.
 
 # 🛠️Programas necesarios
-1. Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) <-Descarga directa para Windows y Mac.
+1. Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) (para **Windows** y **Mac**).
 2. Instala el programa como administrador, junto con los drivers, y descargar el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/crkbd_rev1_via.hex)).
-3. Descarga e instala [VIA](https://github.com/the-via/releases/releases), un software intuitivo para configurar tu teclado <-Descarga directa para Windows y Mac.
-
+3. Descarga e instala [VIA](https://github.com/the-via/releases/releases), un software intuitivo para configurar tu teclado (para **Windows** y **Mac**).
   
 # 🎛️¿Qué incluye este firmware?
 - Código optimizado para mostrar caracteres de bloqueo (Mayús y Num).
@@ -32,4 +31,7 @@
 - Marca la opción de **Auto-Flash** (esto facilitará al momento de cargar el firmware)
 
 # ▶️Explicación
-- Cargaremos el firmware en ambas mitades de manera individual. Usa un cable de transferencia de datos en un puerto USB 3.1 y asegúrate de que el cable TRRS no esté conectado. Luego, presiona una vez el botón de la PCB para poner cada controlador en modo de programación.
+- Cargaremos el firmware en ambas mitades de manera individual. Usa un cable de transferencia de datos en un puerto USB 3.1 y asegúrate de que el cable TRRS no esté conectado.
+- Luego, presiona una vez el botón de la PCB para poner cada controlador en modo de programación.
+- Una vez presionado el botón, el programa cargará el firmware automáticamente. Asegúrate de seleccionar **Auto-Flash** para que el proceso sea automático.
+- Podrás verificar que la carga se ha completado con éxito cuando QMK TOOLBOX muestre el mensaje "Flash Completing".
