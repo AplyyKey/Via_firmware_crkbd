@@ -13,7 +13,7 @@
 
 # 🛠️Programas necesarios
 - Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) (para **Windows** y **Mac**).
-- Instala el programa como administrador, junto con los drivers, y descargar el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/crkbd_rev1_via.hex)).
+- Instala el programa como administrador, junto con los drivers, y descargar el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/Firmware/crkbd_rev1_via.hex)).
 - Descarga e instala [VIA](https://github.com/the-via/releases/releases), un software intuitivo para configurar tu teclado (para **Windows** y **Mac**).
   
 # 🎛️¿Qué incluye este firmware?
@@ -29,7 +29,7 @@
 # 🖥️Preparacion de QMK TOOLBOX
 - Ejecuta **QMK TOOLBOX** como administrador.
 - Instala los drivers desde la pestaña **TOOLS** o con la combinación de teclas CTRL+N.
-- Selecciona el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/crkbd_rev1_via.hex)) descargado desde la pestaña **OPEN**.
+- Selecciona el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/Firmware/crkbd_rev1_via.hex)) descargado desde la pestaña **OPEN**.
 - En la opción MCU (AVR only), selecciona **Atmega32U4** (necesario para controladores Arduino Pro Micro).
 - Marca la opción de **Auto-Flash** (esto facilitará al momento de cargar el firmware)
 
