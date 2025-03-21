@@ -11,7 +11,7 @@
 >- Una vez que el proceso de carga del firmware comienza, no puede ser interrumpido.
 >- Interrumpir el proceso podría dejar el controlador en un estado inutilizable.
 
-# 🛠️¿Cómo instalarlo?
+# 🛠️Programas necesarios
 1. Descarga e instala [QMK TOOLBOX](https://qmk.fm/toolbox) <-Descarga directa para Windows y Mac.
 2. Instala el programa como administrador, junto con los drivers, y descargar el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/crkbd_rev1_via.hex)).
 3. Descarga e instala [VIA](https://github.com/the-via/releases/releases), un software intuitivo para configurar tu teclado <-Descarga directa para Windows y Mac.
