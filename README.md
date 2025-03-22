@@ -52,6 +52,4 @@ Una vez cargado el firmware, VIA te permite personalizar completamente la distri
 - Crear y asignar macros personalizadas para mejorar tu flujo de trabajo.
 - Guardar y cargar perfiles según tus necesidades, para cambiar rápidamente entre configuraciones.
 - Controlar los métodos de iluminación RGB y personalizarlos según tu estilo.
-- Todo esto sin necesidad de recompilar el firmware, directamente desde la interfaz de VIA
-  
-![Image](https://github.com/user-attachments/assets/5e407fed-73f3-497e-8171-db636405b84a)
+![Image](https://github.com/user-attachments/assets/854dbe2a-3f6b-49e4-9db6-aa94c57e1c8f)
