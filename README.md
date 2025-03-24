@@ -56,3 +56,6 @@ Una vez cargado el firmware, VIA te permite personalizar completamente la distri
 - Controlar los métodos de iluminación RGB y personalizarlos según tu estilo.
   
 ![Image](https://github.com/user-attachments/assets/e7d7d329-3e4b-4f9b-869e-26636a69b3d9)
+
+# Inspiration
+- 
