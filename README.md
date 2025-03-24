@@ -1,10 +1,10 @@
 # Firmware Corne (CRKBD) – Compatible con VIA⚡
 
 - Este repositorio contiene el firmware QMK modificado para ser utilizado con VIA en el teclado Corne (CRKBD). A través de VIA, podrás personalizar completamente tu teclado de manera sencilla e interactiva, sin necesidad de recompilar el firmware.
-- Esta carpeta contiene el código fuente necesario para clonar el teclado Corne (CRKBD) en tu entorno de qmk_firmware.
+- Incluye el código fuente necesario para clonar en tu entorno de qmk_firmware.
 
 > [!IMPORTANT]
-> Sigue cada proceso al pie de la letra y descarga las ultimas versiones tanto de **QMK TOOLBOX** como de **VIA**
+> Sigue cada proceso al pie de la letra y descarga las ultimas versiones tanto de **QMK TOOLBOX** como de **VIA**.
 
 > [!TIP]
 > Si aún no has soldado el controlador, carga el firmware para verificar su funcionamiento, o hazlo una vez esté soldado en la PCB.
@@ -21,7 +21,7 @@
 - Visualización de capas de función en pantallas.
 - Imagen personalizada de Corne.
 - Opciones de RGB activas para una mejor experiencia visual.
-- Funciones especiales habilitadas: Control de mouse, macros y multimedia
+- Funciones especiales habilitadas: Control de mouse, macros y multimedial.
 
      <p align="center"><img src="https://github.com/user-attachments/assets/5aab29d2-7863-4741-b80b-7d4a4e45bf25" width="40%" />
 
@@ -31,7 +31,7 @@
 - Instala los drivers desde la pestaña **TOOLS** o con la combinación de teclas CTRL+N.
 - Selecciona el firmware (archivo con extensión [.hex](https://github.com/AplyyKey/Via_firmware_crkbd/blob/main/Firmware/crkbd_rev1_via.hex)) descargado desde la pestaña **OPEN**.
 - En la opción MCU (AVR only), selecciona **Atmega32U4** (necesario para controladores Arduino Pro Micro).
-- Marca la opción de **Auto-Flash** (esto facilitará al momento de cargar el firmware)
+- Marca la opción de **Auto-Flash** (esto facilitará al momento de cargar el firmware).
 
 # ▶️Explicación 
 - Cargaremos el firmware en ambas mitades de manera individual. Usa un cable de transferencia de datos en un puerto USB 3.1 (azul) y asegúrate de que el cable TRRS no esté conectado.
