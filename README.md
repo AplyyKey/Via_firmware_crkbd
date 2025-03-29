@@ -52,3 +52,9 @@ Once the firmware is flashed, VIA allows you to fully customize your keyboard la
 - Control RGB lighting modes and customize them to match your style.
   
 ![Image](https://github.com/user-attachments/assets/e7d7d329-3e4b-4f9b-869e-26636a69b3d9)
+
+## Credits
+
+| Name                                                                                                                 | Remarks                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [foostan](https://github.com/foostan/crkbd)                                                                          | For making the keyboard                                                                                            |
