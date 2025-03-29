@@ -38,11 +38,10 @@
 - Then, press the button located on the PCB once to put each controller into programming mode.
 - The program will automatically flash the firmware. Make sure to select Auto-Flash for an automatic process.
 - You can verify that the flashing process is complete when QMK TOOLBOX displays the message "**Flash complete**".
-<img src="https://github.com/user-attachments/assets/4223266b-0cf8-4fae-b939-47770f143a53" width="35%" /> <img src="https://github.com/user-attachments/assets/7b68dc82-d70e-44d6-9ad7-eae05dd186c7" width="41.2%" />
-
-# ▶️Resetting the Controller
+  <p align="center"><img src="https://github.com/user-attachments/assets/f20559fe-0537-4c69-bca3-084916c8d2dc" width="100%" />
+# ▶️Resetting the Controller 
 - To flash the firmware with the controller in free mode, create a bridge between the GND and RESET points (you can use a wire, paperclip, or electronics tweezers).
-<p align="center"> <img src="https://github.com/user-attachments/assets/8e5d6935-1b09-474b-afc0-46683d21c623" width="25%" />
+  <p align="center"><img src="https://github.com/user-attachments/assets/00989fa3-6181-4ce1-a8fc-6010589d825b" alt="Image" width="50%" />
 
 # ⚙️VIA
 Once the firmware is flashed, VIA allows you to fully customize your keyboard layout. With this tool, you can:
