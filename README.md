@@ -23,7 +23,7 @@
 - Custom Corne image.
 - Active RGB options for a better visual experience.
 - Enabled special functions: Mouse control, macros, and multimedia.
-     <p align="center"><img src="https://github.com/user-attachments/assets/5aab29d2-7863-4741-b80b-7d4a4e45bf25" width="40%" />
+     <p align="center"><img src="https://github.com/user-attachments/assets/97691634-7ad9-4c23-8935-6a701a30cb77" width="100%" />
 
 
 # 🖥️QMK TOOLBOX Setup
